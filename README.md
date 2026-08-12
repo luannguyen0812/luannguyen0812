@@ -11,7 +11,7 @@
 - 🤔 I'm looking for help with: applied ML and predictive modeling. I can build a solid Power BI report in my sleep; models are the part I'm still building reps on.
 - 💬 Ask me about: compliance reporting, Power BI, HR and workforce analytics, or what it's like to run an admin team across three campuses without losing your mind.
 - 📫 How to reach me: minhluan081294@gmail.com or [LinkedIn](https://linkedin.com/in/nguyenluan)
-- 😄 Pronouns: _add yours here_
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hold a Certified Sports Analytics Associate certification I have never once used at work. Just liked the material.
 
 <h3 align="left">Connect with me:</h3>
