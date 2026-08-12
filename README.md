@@ -1,37 +1,18 @@
-<h1 align="center">Hi 👋, I'm Luan Nguyen</h1>
-<h3 align="center">Business Analyst @ Intrastack · MS Business Analytics @ Drexel LeBow · Power BI, SQL, Python, R</h3>
+# 💫 About Me:
+I'm currently working on: coordinating 10+ concurrent IT projects at Intrastack and keeping a 40 person delivery group pointed at the same deliverables. Most days that means turning a stakeholder's vague ask into something the backlog can actually use.<br>🌱 I'm currently learning: an MS in Business Analytics at Drexel (LeBow), finishing March 2027. Trying to get properly good at the statistics and ML side instead of just the dashboard side.<br>👯 I'm looking to collaborate on: anything that turns messy operational or HR data into something a non-technical exec can act on without a walkthrough. Power BI, SQL, Python, automation, all fair game.<br>🤔 I'm looking for help with: applied ML and predictive modeling. I can build a solid Power BI report in my sleep; models are the part I'm still building reps on.<br>💬 Ask me about: compliance reporting, Power BI, HR and workforce analytics, or what it's like to run an admin team across three campuses without losing your mind.<br>📫 How to reach me: minhluan081294@gmail.com or LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I hold a Certified Sports Analytics Associate certification I have never once used at work. Just liked the material.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=luannguyen0812&label=Profile%20views&color=0e75b6&style=flat" alt="luannguyen0812" />
-</p>
 
-- 🔭 I'm currently working on: coordinating 10+ concurrent IT projects at Intrastack and keeping a 40 person delivery group pointed at the same deliverables. Most days that means turning a stakeholder's vague ask into something the backlog can actually use.
-- 🌱 I'm currently learning: an MS in Business Analytics at Drexel (LeBow), finishing March 2027. Trying to get properly good at the statistics and ML side instead of just the dashboard side.
-- 👯 I'm looking to collaborate on: anything that turns messy operational or HR data into something a non-technical exec can act on without a walkthrough. Power BI, SQL, Python, automation, all fair game.
-- 🤔 I'm looking for help with: applied ML and predictive modeling. I can build a solid Power BI report in my sleep; models are the part I'm still building reps on.
-- 💬 Ask me about: compliance reporting, Power BI, HR and workforce analytics, or what it's like to run an admin team across three campuses without losing your mind.
-- 📫 How to reach me: minhluan081294@gmail.com or [LinkedIn](https://linkedin.com/in/nguyenluan)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I hold a Certified Sports Analytics Associate certification I have never once used at work. Just liked the material.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nguyenluan) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nguyenluan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyenluan" height="30" width="40" /></a>
-<a href="mailto:minhluan081294@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=luannguyen0812&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=luannguyen0812&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=luannguyen0812&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and tools:</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=luannguyen0812&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luannguyen0812&show_icons=true&locale=en&layout=compact" alt="luannguyen0812" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luannguyen0812&show_icons=true&locale=en" alt="luannguyen0812" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
