@@ -7,7 +7,7 @@
 - Use AI/LLM automation to remove repetitive reporting work and give teams more time for analysis
 - Led 20+ staff across 4 campuses as an Operations Support Manager, and 10+ across 3 campuses as an Admin Team Leader, building the workflows, standards, and unblocking people as needed.
 
-<br>📫 How to reach me: minhluan081294@gmail.com or LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I hold a Certified Sports Analytics Associate certification I have never once used at work. Just liked the material.
+<br>📫 How to reach me: l.mnguyen@outlook.com or LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I hold a Certified Sports Analytics Associate certification I have never once used at work. Just liked the material.
 
 
 ## 🌐 Socials:
