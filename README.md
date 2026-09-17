@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Business Analyst, reporting and analytics professional with 9 years of experience across education, facilities management, retail HR, and now technology. I gather and document business requirements, then translate them into deliverables that stakeholders can actually act on. I sit between business stakeholders and technical teams, so the result answers the right question and is easy to use.  
+🔭 Business Analyst, reporting and analytics professional with 9 years of experience across education, facilities management, retail HR, and now technology. I gather and document business requirements, then translate them into deliverables that stakeholders can actually act on. I sit between business stakeholders and technical teams, so the result answers the right question and is easy to use. A few key highlights from my work:
 
 - Build Power BI dashboards and Excel models that senior leaders present to clients and boards
 - Own compliance reporting where the numbers have to be right the first time, every month, with careful checks before anything goes out
