@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I'm currently working on: coordinating 10+ concurrent IT projects at Intrastack and keeping a 40 person delivery group pointed at the same deliverables. Most days that means turning a stakeholder's vague ask into something the backlog can actually use.<br>🌱 I'm currently learning: an MS in Business Analytics at Drexel (LeBow), finishing March 2027. Trying to get properly good at the statistics and ML side instead of just the analytics, dashboard side.<br>👯 I'm looking to collaborate on: anything that turns messy operational data into something a non-technical exec can act on without a walkthrough. Power BI, SQL, Python, automation, all fair game.<br>🤔 I'm looking for help with: applied ML and predictive modeling. I can build a solid Power BI report in my sleep; models are the part I'm still building reps on.<br>💬 Ask me about: Operations, compliance reporting, Power BI, HR and workforce analytics, process automations using LLMs, or what it's like to run an admin team across three campuses without losing your mind.<br>📫 How to reach me: minhluan081294@gmail.com or LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I hold a Certified Sports Analytics Associate certification I have never once used at work. Just liked the material.
+🔭 Business Analyst, reporting and analytics professional with 9 years of experience across education, facilities management, retail HR, and now technology. I gather and document business requirements, then translate them into deliverables that stakeholders can actually act on. I sit between business stakeholders and technical teams, so the result answers the right question and is easy to use.  
+
+- Build Power BI dashboards and Excel models that senior leaders present to clients and boards
+- Own compliance reporting where the numbers have to be right the first time, every month, with careful checks before anything goes out
+- Write process documentation that lets a team keep delivering when I'm not in the room
+- Use AI/LLM automation to remove repetitive reporting work and give teams more time for analysis
+- Led 20+ staff across 4 campuses as an Operations Support Manager, and 10+ across 3 campuses as an Admin Team Leader, building the workflows, standards, and unblocking people as needed.
+
+<br>📫 How to reach me: minhluan081294@gmail.com or LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I hold a Certified Sports Analytics Associate certification I have never once used at work. Just liked the material.
 
 
 ## 🌐 Socials:
