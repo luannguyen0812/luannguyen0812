@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenluan/) 
-[![PersonalBio](https://img.shields.io/badge/PersonalBio-%230077B5.svg?logo=linkedin&logoColor=grey)](https://www.luanng.com/)
+[![PersonalBio](https://img.shields.io/badge/Personal_Site-E11D48?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.luanng.com/)
 
 # 💻 Tech Stack:
 
