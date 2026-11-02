@@ -7,6 +7,12 @@
 - Use AI/LLM automation to remove repetitive reporting work and give teams more time for analysis
 - Led 20+ staff across 4 campuses as an Operations Support Manager, and 10+ across 3 campuses as an Admin Team Leader, building the workflows, standards, and unblocking people as needed.
 
+What I do for you:
+- Gather requirements and turn them into reports people actually use
+- Build Power BI/Tableau dashboards and Excel models for leaders, clients and boards
+- Write the process docs that keep the work running when I'm not in the room
+- Automate the repetitive parts with Python and LLM tools
+
 <br>📫 How to reach me: l.mnguyen@outlook.com or LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I hold a Certified Sports Analytics Associate certification I have never once used at work. Just liked the material.
 
 
